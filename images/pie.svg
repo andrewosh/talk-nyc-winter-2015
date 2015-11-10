@@ -132,4 +132,7 @@
 <text transform="matrix(1 0 0 1 230.5659 183.8926)" fill="#FFFFFF" font-family="'Hack-Regular'" font-size="21">27%</text>
 <text transform="matrix(1 0 0 1 187.5532 298.1924)" fill="#FFFFFF" font-family="'Hack-Regular'" font-size="21">16%</text>
 <text transform="matrix(1 0 0 1 110.3877 311.6973)" fill="#FFFFFF" font-family="'Hack-Regular'" font-size="21">10%</text>
+<g>
+	<text transform="matrix(1 0 0 1 119.333 215.2378)"><tspan x="0" y="0" fill="#565759" font-family="'Hack-Regular'" font-size="22.1824">n</tspan><tspan x="13.355" y="0" fill="#565759" font-family="'Hack-Regular'" font-size="12"> </tspan><tspan x="20.58" y="0" fill="#565759" font-family="'Hack-Regular'" font-size="22.1824">=</tspan><tspan x="33.935" y="0" fill="#565759" font-family="'Hack-Regular'" font-size="12"> </tspan><tspan x="41.159" y="0" fill="#565759" font-family="'Hack-Regular'" font-size="22.1824">287</tspan></text>
+</g>
 </svg>
